@@ -18,8 +18,8 @@
 
 ## 📫 Contato  
 
-💼 LinkedIn: [Seu Perfil](https://www.linkedin.com/in/leonardolbraga/) 
-🌎 Portfólio: [seusite.com](https://leonardolbraga.github.io/) 
+💼 LinkedIn: [leonardolbraga](https://www.linkedin.com/in/leonardolbraga/)  
+🌎 Portfólio: [leonardolbraga.github.io](https://leonardolbraga.github.io/)  
 
 
 <!--
