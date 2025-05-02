@@ -7,7 +7,7 @@
 ## 🔧 Tecnologias e Ferramentas  
 
 - 🚀 **Back-end:** Golang, Python, JavaScript
-- 🎨 **Front-end:** HTML,CSS, Vue.js  
+- 🎨 **Front-end:** HTML, CSS, Vue.js  
 - 🛢️ **Banco de Dados:** SQL Server, MySQL  
 - ☁️ **Cloud & DevOps:** Google Cloud, GitLab, GitHub
 
