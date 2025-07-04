@@ -13,7 +13,7 @@
 
 ## 📊 Estatísticas  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonardoLBraga&show_icons=true&theme=dracula) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonardoLBraga&show_icons=true&theme=radical) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoLBraga&layout=compact&theme=dracula)  
 
 ## 📫 Contato  
