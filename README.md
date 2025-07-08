@@ -1,38 +1,45 @@
-# 💻 Sobre Mim  
+<h1 align="center">👋 Olá! | Hello!</h1>
+<h3 align="center">Leonardo Braga • Back-end Developer</h3>
 
-🎯 **Amante da matemática e apaixonado por programação**, sempre buscando aprender e desenvolver novas habilidades.  
-🚀 Gosto de otimizar código e encontrar soluções eficientes para reduzir custos e melhorar processos.  
-🛠️ Comprometido e perseverante, não descanso até entender e resolver um problema.  
+---
 
-## 🔧 Tecnologias e Ferramentas  
+<p align="center">
+  🇧🇷 Desenvolvedor focado em resolver problemas com código limpo, performático e bem arquitetado.<br>
+  🇺🇸 Developer focused on solving problems with clean, performant, and well-structured code.
+</p>
 
-- 🚀 **Back-end:** Golang, Python, JavaScript
-- 🎨 **Front-end:** HTML, CSS, Vue.js  
-- 🛢️ **Banco de Dados:** SQL Server, MySQL  
-- ☁️ **Cloud & DevOps:** Google Cloud, GitLab, GitHub
+---
 
-## 📊 Estatísticas  
+## 🧠 Sobre Mim | About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonardoLBraga&show_icons=true&theme=tokyonight) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoLBraga&layout=compact&theme=tokyonight)  
+🇧🇷 Sou um entusiasta da programação com paixão por matemática, lógica e otimização de sistemas. Busco constantemente aprender novas tecnologias e aplicar boas práticas de desenvolvimento.
 
-## 📫 Contato  
+🇺🇸 I'm a programming enthusiast with a passion for math, logic, and system optimization. I'm constantly learning and applying best development practices.
 
-💼 LinkedIn: [leonardolbraga](https://www.linkedin.com/in/leonardolbraga/)  
-🌎 Portfólio: [leonardolbraga.github.io](https://leonardolbraga.github.io/)  
+---
 
+## 🛠️ Tecnologias e Ferramentas | Technologies & Tools
 
-<!--
-**LeonardoLBraga/LeonardoLBraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Back-end       | Front-end     | Banco de Dados / DB       | DevOps / Cloud     |
+| -------------- | ------------- | -------------------------- | ------------------ |
+| Golang         | HTML, CSS     | SQL Server, MySQL         | GitHub, GitLab CI  |
+| Python         | Vue.js        |                            | Google Cloud       |
+| JavaScript     |               |                            |                    |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoLBraga&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoLBraga&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contato | Contact
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/leonardolbraga/)
+- 🌐 [Portfólio](https://leonardolbraga.github.io/)
+
+---
