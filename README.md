@@ -18,13 +18,25 @@
 
 ---
 
+## 📬 Contato | Contact
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/leonardolbraga/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leonardolbraga.github.io/">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🛠️ Tecnologias e Ferramentas | Technologies & Tools
 
-| Back-end       | Front-end     | Banco de Dados / DB       | DevOps / Cloud     |
-| -------------- | ------------- | -------------------------- | ------------------ |
-| Golang         | HTML, CSS     | SQL Server, MySQL         | GitHub, GitLab CI  |
-| Python         | Vue.js        |                            | Google Cloud       |
-| JavaScript     |               |                            |                    |
+| Back-end | Front-end | Banco de Dados / DB | DevOps / Cloud |
+| ------- | ---------- | ------------------- | -------------- |
+| <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <br> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <br> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" /> | <img src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> <br> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <br> <img src="https://img.shields.io/badge/GitLab CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /> |
 
 ---
 
@@ -34,12 +46,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LeonardoLBraga&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoLBraga&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-## 📫 Contato | Contact
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/leonardolbraga/)
-- 🌐 [Portfólio](https://leonardolbraga.github.io/)
 
 ---
