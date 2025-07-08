@@ -21,12 +21,11 @@
 ## 📬 Contato | Contact
 
 <p align="left">
+  <a href="https://leonardolbraga.github.io/">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white" style="margin-right: 12px;" />
+  </a>
   <a href="https://www.linkedin.com/in/leonardolbraga/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leonardolbraga.github.io/">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
